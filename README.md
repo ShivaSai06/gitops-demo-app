@@ -1,6 +1,3 @@
-## ✅ Complete `README.md` – Including Installation & Configuration
-
-
 # GitOps Demo App with Argo CD and Kubernetes
 
 This project demonstrates how to implement **GitOps** using **Argo CD**, **Kubernetes (Minikube)**, and **GitHub**. The application is deployed and managed by syncing its state directly from a Git repository.
